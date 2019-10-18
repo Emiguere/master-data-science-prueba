@@ -10,4 +10,5 @@ Hola k ase
 Hola k ase
 
 No he hecho trampa
-Otro cambio
+
+Otro cambio y el conflicto
